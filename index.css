@@ -1,0 +1,39 @@
+#contain{
+    background-color: darkolivegreen;
+    margin-top: 30px;
+}
+h2{
+    color: whitesmoke
+}
+h1{ 
+    text-align: center;
+    color: white;
+    border : 2px solid greenyellow;
+    background-color: grey;
+    padding: 20px;
+}
+
+.flex-box-rps img:hover{
+     box-shadow: 0px 10px 50px black;
+}
+
+.flex-box-rps{
+    display: flex;
+    justify-content: space-around;
+    height : 300px;
+    border: 3px solid hotpink;  
+    padding : 5px;
+    align-items: center;
+}
+h4{
+    color: #99AAAB;
+}
+.myContainer{
+    width: 75%;
+    margin: auto;
+}
+
+img{
+    height: 200px;
+    width:250px;    
+}
